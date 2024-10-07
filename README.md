@@ -5,13 +5,13 @@ Console application that would parse a log csv file and print out logs based on 
 * search any column by full string.
 * search any column by partial string.
 * Query provided by user input
-* SELECT * FROM table_name WHERE column_name = 'search_string'
+* Format as your choice in example: [SELECT * FROM table_name WHERE column_name = 'search_string']
 * Results from the query should be combined and returned in JSON format
-* Please provide project folder structure.
+*[x] Please provide project folder structure.
 
 ### Bonus: 
 * Add Boolean logical operator support in the queries (AND, OR, NOT...);
-* Add multiple file support;
+*[x] Add multiple file support;
 * Add log count value in the resulting JSON output;
 
 ### More bonus points:
